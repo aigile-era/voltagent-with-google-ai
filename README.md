@@ -75,6 +75,6 @@ npm run dev
 [VoltAgent] All packages are up to date
 ```
 
-![alt text](src/dashboard.png)
+![alt text](asset/dashboard.png)
 
-![alt text](src/agent.png)
+![alt text](asset/agent.png)

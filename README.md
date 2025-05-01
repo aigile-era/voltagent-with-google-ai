@@ -57,3 +57,24 @@ Test it
 ```
 npm run dev
 ```
+
+```bash
+> npm run dev
+
+> dev
+> tsx watch --env-file=.env ./src
+
+══════════════════════════════════════════════════
+  VOLTAGENT SERVER STARTED SUCCESSFULLY
+══════════════════════════════════════════════════
+  ✓ HTTP Server:  http://localhost:3141
+  ✓ Swagger UI:   http://localhost:3141/ui
+
+  Developer Console:    https://console.voltagent.dev
+══════════════════════════════════════════════════
+[VoltAgent] All packages are up to date
+```
+
+![alt text](src/dashboard.png)
+
+![alt text](src/agent.png)

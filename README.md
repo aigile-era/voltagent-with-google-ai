@@ -52,6 +52,10 @@ VoltAgent is an open-source TypeScript framework for creating and managing AI ag
 npm create voltagent-app@latest -- --example with-google-ai
 ```
 
+ENV
+- get API key: https://aistudio.google.com/app/apikey
+- update/create `.env` file
+  
 Test it
 
 ```
